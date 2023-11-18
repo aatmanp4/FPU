@@ -1,4 +1,4 @@
-# Custom Floating Point Unit (FPU) for High-Performance Computing
+# Floating Point Unit (FPU) for High-Performance Computing
 
 ## 1. Introduction
 
